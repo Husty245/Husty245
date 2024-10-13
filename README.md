@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV5MDhtb3hoMXpscjI1MXFoZ2k4eTJxZHdqcDgwa3JiaTIwZGRwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp)](=(https://solo.to/husty)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV5MDhtb3hoMXpscjI1MXFoZ2k4eTJxZHdqcDgwa3JiaTIwZGRwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp)](https://solo.to/husty)
 <h1 align="center">Hi 👋, I'm Husty</h1>
 <h3 align="center">A passionate upcoming Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
