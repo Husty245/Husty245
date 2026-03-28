@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+King!;Software+Engineer;Fullstack+Developer;Aspiring+Content+Creator;Tech+Enthusiast" alt="Typing SVG" />
+  <<img src="https://image2url.com/r2/default/images/1774734096265-618cabde-fce5-4490-8b8e-689b039ad4d8.jpg" alt="image" />
 </p>
 
 ---
