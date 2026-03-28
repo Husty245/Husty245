@@ -11,7 +11,7 @@
 
 - 💻 **Full-Stack Web Developer/Game Developer** who enjoys building intuitive front-end experiences and reliable back-end systems. I work with **JavaScript, HTML, CSS, Python, and recently Python**, and I’m always exploring new tools and technologies to sharpen my craft.
 
-- 🛠️ I enjoy working across the stack, whether it’s designing responsive UIs, developing server-side logic, integrating APIs, or managing data with relational databases. I care about writing clean, maintainable code and creating software that feels intentional and user-centered.
+- 🛠️ I enjoy working around the stack, whether it’s learning responsive UIs. I care about writing clean, maintainable code and creating software that feels intentional and user-centered.
 
 - 🚀 Passionate about learning more, problem-solving, and bringing ideas to life through thoughtful engineering. Currently building projects, improving my skills, and experimenting with new technologies.
 
@@ -20,7 +20,7 @@
 
 ### 👨🏽‍💻 Tech Stack  
 
-<<div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,12 +40,6 @@
 
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingmcleod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aaff&icon_color=00aaff" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmcleod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aaff" height="180em" />
-</p>
 
 ---
 
