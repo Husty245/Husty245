@@ -20,20 +20,22 @@
 
 ### 👨🏽‍💻 Tech Stack  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 
@@ -51,18 +53,17 @@
 
 | Project | Description | Tech Stack | Status | Links |
 |---------|-------------|------------|--------|-------|
-| **[The Daily Doodle](https://kingmcleod.github.io/the-daily-doodle/)** | A comic book app that integrates the XKCD API to dynamically fetch and display comics. | HTML, CSS, JavaScript, React, Node.js, Vite | ✅ Complete | [Repo](https://github.com/kingmcleod/the-daily-doodle) |
-| **[Comen Todos](https://github.com/KJIT-Corp/comen-todos)** | A full-stack app to combat food insecurity in NYC, allowing users to search/filter food banks & explore via an interactive Leaflet map. | Node.js, Express, PostgreSQL, React, Tailwind CSS, Leaflet.js | 🚧 In Progress | [Repo](https://github.com/KJIT-Corp/comen-todos) |
+| **[NYC Hunger](https://github.com/Santii-btn/hackathon)** | Created a GitHub website in a Hackathon at Queen Technical High School with 2 other team members, using HTML/CSS about the hunger issues around NYC by adding a donation and impact across the city. | In progess | <!--[Repo](https://github.com/kingmcleod/the-daily-doodle)!-->
 
 ---
-### 🎧 My Current Soundtrack  
+<!--### 🎧 My Current Soundtrack  
 *For Now!*  
 
 <div align="center">
   <a href="[https://open.spotify.com/user/31liisq3f5g574ixrjeso6cz7q4u](https://open.spotify.com/user/31plnvfeyh5ez4osspbhnmd5otdm)">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31liisq3f5g574ixrjeso6cz7q4u&count=5" alt="Spotify recently played"/>
   </a>
-</div>
+</div>!-->
 
 ---
 <!--### 💻 LeetCode Stats
@@ -84,7 +85,7 @@
   <a href="mailto:jarrettgyan51@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/Husty245" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -93,14 +94,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=120&section=footer" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<!--<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husty245/husty245/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husty245/husty245/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/husty245/husty245/output/pacman-contribution-graph.svg">
+</picture>!-->
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+###
+
+<!--<img src="https://raw.githubusercontent.com/husty245/husty245/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>!-->
+
+###
