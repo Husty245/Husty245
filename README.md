@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
- <img src="https://image2url.com/r2/default/images/1774734096265-618cabde-fce5-4490-8b8e-689b039ad4d8.jpg" alt="Description of the image">
+ <img src="gyan-banner.jpg" alt="Description of the image">
 </p>
 
 ---
