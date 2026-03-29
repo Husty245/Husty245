@@ -9,7 +9,7 @@
 
 ### 💡 About Me  
 
-- 💻 **Full-Stack Web Developer/Game Developer** who enjoys building intuitive front-end experiences and reliable back-end systems. I work with **JavaScript, HTML, CSS, Python, and recently Python**, and I’m always exploring new tools and technologies to sharpen my craft.
+- 💻 **Full-Stack Web Developer/Game Developer** who enjoys building intuitive front-end experiences and reliable back-end systems. I work with **JavaScript, HTML, CSS, and Python**, and I’m always exploring new tools and technologies to sharpen my craft.
 
 - 🛠️ I enjoy working around the stack, whether it’s learning responsive UIs. I care about writing clean, maintainable code and creating software that feels intentional and user-centered.
 
@@ -88,28 +88,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=120&section=footer" />
 </div>
 
-<!--<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husty245/husty245/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husty245/husty245/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/husty245/husty245/output/pacman-contribution-graph.svg">
-</picture>!-->
+</picture>
 
 ###
 
-<!--<img src="https://raw.githubusercontent.com/husty245/husty245/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>!-->
+<img src="https://raw.githubusercontent.com/husty245/husty245/output/snake.svg" alt="Snake animation" />
 
 ###
